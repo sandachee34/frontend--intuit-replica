@@ -1,0 +1,98 @@
+body{
+    background-color: #d3d3d3;
+}
+#nav{
+    margin-top: 20px;
+}
+#nav button {
+    margin-right: 10px;
+    float:right;
+    margin-top:10px;
+background-color: #365ebf;
+border: none;
+border-radius: 10px;
+width:100px;
+height: 50px;
+color:#fff;
+}
+.rig{
+    float: left;
+    margin-left: 950px;
+    font-size:12px;
+    margin-top: 0px;
+}
+.rig p{
+    margin-bottom: 0px;
+}
+.rig a{
+    margin-top:0px;
+}
+#sign{
+    width:500px;
+    margin-left:400px;
+    height:500px;
+    font-weight: normal;
+    margin-top:-200px;
+    background-color: #fff;
+    border-color:black;
+    border-width: 20px;
+    color: grey;
+
+}
+#sign p {
+    
+     text-align: center;
+     font-weight: normal;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: grey;
+}
+.one{
+    font-size: 25px;
+    padding-top: 15px;
+}
+.two{
+    font-size: 18px;
+    padding-top:10px;
+    margin-top: -40px;
+    margin-bottom: -20px;
+}
+.three{
+    font-size: 12px;
+    margin-left: 200px;
+    color:#365ebf;
+    text-decoration: none;
+   
+}
+.form {
+    margin-top: 20px;
+    padding:10px;
+    margin-left: 60px;
+
+}
+.form label input{
+    font-size: 12px;
+    margin-top: 10px;
+    color: grey;
+
+}
+.pink{
+    margin-left: -100px;
+    font-style: italic;
+    color:grey;
+}
+.pink a{
+    color: #365ebf;
+    text-decoration: none;
+}
+.recaptcha{
+    background-color: 	#DCDCDC;
+    font-size: 12px;
+    width: 500px;
+    height: 50px;
+    margin-left: -70px;
+    margin-top: -10px;
+}
+.recaptcha p{
+    padding: 20px;
+    padding-left: -50px;
+}
